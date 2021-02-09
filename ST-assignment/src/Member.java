@@ -1,10 +1,15 @@
 public class Member extends User {
     private String memberID;
     private int phoneNumber;
+    
+    
+    
+	public Member(String name, Address userAddress, String memberID, int phoneNumber) {
+		super(name, userAddress);
+		this.phoneNumber = phoneNumber;
+		this.memberID = memberID;
+	}
 
+  
 
-    public Member(String memberID, int phoneNumber) {
-        this.memberID = memberID;
-        this.phoneNumber = phoneNumber;
-    }
 }
