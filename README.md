@@ -23,7 +23,7 @@ A simple ordering command line application is built to carry out the testing par
 
 ### Author
 
-- Yeo Kai En
+- Yeo Kai En (Leader)
 - Elaine Low Jing Yi
 - Low Ee Lyne
 - Low Jia Wei
